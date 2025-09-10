@@ -59,7 +59,7 @@ I'm a passionate full-stack developer who loves building robust, scalable applic
   - **Architected** the database schema and built secure **RESTful APIs**.
   - **Engineered** both the responsive React admin dashboard and React Native mobile app.
   - **Collaborated** in an Agile team using **GitHub** for version control.
-- **[SecureNewsHub](https://github.com/EngrTonyDev/SecureNewsHub)** - A full-stack news aggregation platform built with GraphQL, React, Node.js, and MongoDB. Fetches, parses, and delivers news from RSS feeds with user-specific filtering.
+- **[SecureNewsHub](https://github.com/EngrTonyDev/SecureNewsHub)** - A full-stack news aggregation platform built with **GraphQL, React, Node.js, and MongoDB**. Fetches, parses, and delivers news from RSS feeds with user-specific filtering.
   - **Architected** a GraphQL API with queries for filtering news by user, category, and search terms.
   - **Engineered** the React front-end with authentication and routing for a multi-page dashboard.
   - **Developed** a data ingestion service to automate the fetching and parsing of RSS/XML feeds.
