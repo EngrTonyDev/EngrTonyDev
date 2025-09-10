@@ -63,6 +63,10 @@ I'm a passionate full-stack developer who loves building robust, scalable applic
   - **Architected** a GraphQL API with queries for filtering news by user, category, and search terms.
   - **Engineered** the React front-end with authentication and routing for a multi-page dashboard.
   - **Developed** a data ingestion service to automate the fetching and parsing of RSS/XML feeds.
+- **[SocialHubManager](https://github.com/jamoreras/SocialHubManager)** - A full-stack social media management platform built with **Laravel, PHP, MVC architecture, and OAuth 2.0**. Allows users to schedule and publish content across LinkedIn, Reddit, and Tumblr.
+  - **Architected** a Laravel backend with secure user authentication and role-based access control.
+  - **Engineered** OAuth 2.0 integrations with LinkedIn, Reddit, and Tumblr APIs for social media posting.
+  - **Developed** a content scheduling system with calendar interface for managing post dates and times.
 
 ## Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/anthony-lizano-ugalde-91a7a4224/)
